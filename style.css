@@ -1,0 +1,29 @@
+body {
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h2 {
+    color : yellow; 
+}
+h1 { 
+    color: yellow;
+}
+#myCanvas {
+    border: ridge 10px yellow; 
+    background-color:  #7df9ff; 
+}
+button {
+    border: ridge 5px yellow; 
+    background-color:  #7df9ff;
+    font-size: 20px;
+    font-family: Verdana, 'Geneva', 'Tahoma', sans-serif; 
+    color: black;
+}
+input {
+    font-size: 20px;
+    font-family: Verdana, 'Geneva', 'Tahoma', sans-serif; 
+    color: black;  
+}
